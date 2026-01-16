@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "841968829963",
+    "firebase_url": "https://secuvision-8b0d0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "secuvision-8b0d0",
+    "storage_bucket": "secuvision-8b0d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841968829963:android:7904f1d7d9690c209d690e",
+        "android_client_info": {
+          "package_name": "com.amhar_2025.SecuVisionExpo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBynawkX7NIKggKJ8SF3S9gd9slsC__ML8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841968829963:android:e6720f477a76600a9d690e",
+        "android_client_info": {
+          "package_name": "com.amhar_2025.secuvision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBynawkX7NIKggKJ8SF3S9gd9slsC__ML8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
